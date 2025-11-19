@@ -34,7 +34,7 @@ Currently working on projects like:
 
 
 ---
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Tools
 
 | Frontend | Backend | Others |
 |----------|--------|-------|
