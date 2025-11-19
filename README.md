@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/rimi-1234/rimi-1234/blob/main/Banner.gif?raw=true" alt="Banner" width="800"/>
+  <img src="https://github.com/rimi-1234/rimi-1234/blob/main/BannerScreenshot.png?raw=true" alt="Banner Screenshot" width="800"/>
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Farhana Jaman</h1>
