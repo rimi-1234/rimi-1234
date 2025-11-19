@@ -5,11 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimi-1234" alt="rimi-1234" /></a> </p>
 
+
+## 🌐 About Me
+I am a passionate **Web Developer** exploring **React.js, Next.js, Node.js** and building **modern, responsive, and scalable web apps**.  
+Currently working on projects like:
 - 🔭 I’m currently working on [Zap Shift](https://github.com/rimi-1234/react-zap-shift-client)
 
 - 💬 Ask me about **javascript,react**
 
 - 📫 How to reach me **zfarhana156@gmail.com**
+
+
+---
 
 ## 📫 Contact Me
 
@@ -23,7 +30,7 @@
 ---
 
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Technologies
 
 | Frontend | Backend | Others |
 |----------|--------|-------|
