@@ -30,15 +30,15 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> |  |  |
 
 ---
-<table>
+<table style="margin-top: 30px; border-spacing: 20px;">
   <tr>
     <th>Top Languages</th>
     <th>GitHub Stats</th>
     <th>Streak Stats</th>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimi-1234&show_icons=true&locale=en&layout=compact" alt="rimi-1234" width="300"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rimi-1234&show_icons=true&locale=en" alt="rimi-1234" width="300"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rimi-1234" alt="rimi-1234" width="300"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimi-1234&show_icons=true&locale=en&layout=compact" width="300"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rimi-1234&show_icons=true&locale=en" width="300"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rimi-1234" width="300"/></td>
   </tr>
 </table>
