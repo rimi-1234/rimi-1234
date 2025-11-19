@@ -21,15 +21,15 @@ Currently working on projects like:
 
 
 ---
-
 ## 📫 Contact Me
 
 | Platform | Link |
 |----------|------|
-| Email | [zfarhana156@gmail.com](mailto:zfarhana156@gmail.com) |
-| LinkedIn | [Farhana Jaman](https://www.linkedin.com/in/farhana-jaman-401a3835b/) |
-| Facebook | [Farhana Jaman](https://www.facebook.com/farhana.jamam) |
-| GitHub | [farhana-jaman](https://github.com/farhana-jaman) |
+| ![Email](https://skillicons.dev/icons?i=gmail) Email | [zfarhana156@gmail.com](mailto:zfarhana156@gmail.com) |
+| ![LinkedIn](https://skillicons.dev/icons?i=linkedin) LinkedIn | [Farhana Jaman](https://www.linkedin.com/in/farhana-jaman-401a3835b/) |
+| ![Facebook](https://skillicons.dev/icons?i=facebook) Facebook | [Farhana Jaman](https://www.facebook.com/farhana.jamam) |
+| ![GitHub](https://skillicons.dev/icons?i=github) GitHub | [farhana-jaman](https://github.com/farhana-jaman) |
+
 
 ---
 ## 🛠️ Languages & Tools
