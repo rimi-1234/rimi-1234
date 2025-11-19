@@ -1,3 +1,10 @@
+<p align="center">
+  <video width="800" autoplay loop muted>
+    <source src="https://github.com/rimi-1234/rimi-1234/blob/main/Banner.mp4?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 <h1 align="center">Hi 👋, I'm Farhana Jaman</h1>
 <h3 align="center">A passionate frontWeb Developer | MERN Stack | React, Node.js, MongoDB | Tailwind CSS & DaisyUI | React Routerend developer from Bangladesh</h3>
 
