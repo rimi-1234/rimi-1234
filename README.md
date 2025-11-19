@@ -70,3 +70,12 @@ I love learning new technologies and contributing to **open-source projects**.
 |--------------|---------------|--------------|
 | <img src="https://github-readme-stats.vercel.app/api?username=farhana-jaman&show_icons=true&locale=en" width="300"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhana-jaman&layout=compact" width="300"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhana-jaman" width="300"/> |
 
+
+---
+
+## 📊 GitHub Stats
+
+| GitHub Stats | Top Languages | Streak Stats |
+|--------------|---------------|--------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=farhana-jaman&show_icons=true&locale=en" width="300"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhana-jaman&layout=compact" width="300"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhana-jaman" width="300"/> |
+
