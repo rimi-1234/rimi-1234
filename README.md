@@ -1,11 +1,5 @@
 <p align="center">
-  <a href="https://streamable.com/58zv0k" target="_blank">
-    <img src="https://raw.githubusercontent.com/rimi-1234/rimi-1234/main/banner-thumbnail.png" alt="Hero.iApp Banner" width="800"/>
-  </a>
-</p>
-
-<p align="center">
-  Click the image above to watch the video demo!
+  <img src="https://raw.githubusercontent.com/rimi-1234/rimi-1234/main/banner.gif" alt="Hero.iApp Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Farhana Jaman</h1>
