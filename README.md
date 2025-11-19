@@ -47,7 +47,7 @@ Currently working on projects like:
 
 ---
 
-## 📊 GitHub Stat
+## 📊 GitHub State
 
 <table style="margin-top: 30px; border-spacing: 20px;">
   <tr>
