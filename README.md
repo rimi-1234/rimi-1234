@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://github.com/rimi-1234/rimi-1234/blob/main/BannerScreenshot.png?raw=true" alt="Banner Screenshot" width="800"/>
+  <a href="https://streamable.com/58zv0k" target="_blank">
+    <img src="https://raw.githubusercontent.com/rimi-1234/rimi-1234/main/banner-thumbnail.png" alt="Hero.iApp Banner" width="800"/>
+  </a>
 </p>
 
-
+<p align="center">
+  Click the image above to watch the video demo!
+</p>
 
 <h1 align="center">Hi 👋, I'm Farhana Jaman</h1>
 <h3 align="center">A passionate frontWeb Developer | MERN Stack | React, Node.js, MongoDB | Tailwind CSS & DaisyUI | React Routerend developer from Bangladesh</h3>
