@@ -11,11 +11,17 @@
 
 - 📫 How to reach me **zfarhana156@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/farhana-jaman-401a3835b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/farhana-jaman-401a3835b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/farhana.jamam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/farhana.jamam" height="30" width="40" /></a>
-</p>
+## 📫 Contact Me
+
+| Platform | Link |
+|----------|------|
+| Email | [zfarhana156@gmail.com](mailto:zfarhana156@gmail.com) |
+| LinkedIn | [Farhana Jaman](https://www.linkedin.com/in/farhana-jaman-401a3835b/) |
+| Facebook | [Farhana Jaman](https://www.facebook.com/farhana.jamam) |
+| GitHub | [farhana-jaman](https://github.com/farhana-jaman) |
+
+---
+
 
 ## 🛠️ Languages & Tools
 
