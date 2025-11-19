@@ -25,10 +25,11 @@ Currently working on projects like:
 
 | Platform | Link |
 |----------|------|
-| ![Email](https://skillicons.dev/icons?i=gmail) Email | [zfarhana156@gmail.com](mailto:zfarhana156@gmail.com) |
-| ![LinkedIn](https://skillicons.dev/icons?i=linkedin) LinkedIn | [Farhana Jaman](https://www.linkedin.com/in/farhana-jaman-401a3835b/) |
-| ![Facebook](https://skillicons.dev/icons?i=facebook) Facebook | [Farhana Jaman](https://www.facebook.com/farhana.jamam) |
-| ![GitHub](https://skillicons.dev/icons?i=github) GitHub | [farhana-jaman](https://github.com/farhana-jaman) |
+| <img src="https://skillicons.dev/icons?i=gmail" width="20"/> Email | [zfarhana156@gmail.com](mailto:zfarhana156@gmail.com) |
+| <img src="https://skillicons.dev/icons?i=linkedin" width="20"/> LinkedIn | [Farhana Jaman](https://www.linkedin.com/in/farhana-jaman-401a3835b/) |
+| <img src="https://skillicons.dev/icons?i=facebook" width="20"/> Facebook | [Farhana Jaman](https://www.facebook.com/farhana.jamam) |
+| <img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub | [farhana-jaman](https://github.com/farhana-jaman) |
+
 
 
 ---
