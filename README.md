@@ -13,7 +13,7 @@
 ## 🌐 About Me
 I am a passionate **Web Developer** exploring **React.js, Next.js, Node.js** and building **modern, responsive, and scalable web apps**.  
 Currently working on projects like:
-- 🔭 I’m currently working on [Zap Shift](https://github.com/rimi-1234/react-zap-shift-client)
+- 🔭 I’m currently working on [trade_shift](https://github.com/rimi-1234/react-trade-shift-client)
 
 - 💬 Ask me about **javascript,react**
 
