@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rimi-1234/rimi-1234/main/banner.gif" alt="Hero.iApp Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/rimi-1234/rimi-1234/main/banner.png" alt="Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Farhana Jaman</h1>
