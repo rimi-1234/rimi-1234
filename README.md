@@ -15,13 +15,25 @@
 ---
 
 ## 🌐 About Me
-I am a passionate **Web Developer** exploring **React.js, Next.js, Node.js** and building **modern, responsive, and scalable web apps**.  
-Currently working on projects like:
-- 🔭 I’m currently working on [trade_shift](https://github.com/rimi-1234/react-trade-shift-client)
 
-- 💬 Ask me about **javascript,react**
+Hi! I'm **Rimi**, a passionate **Full-Stack Web Developer** who enjoys building modern, responsive, and user-friendly web applications. I love turning ideas into real-world solutions using the MERN stack and Next.js. I'm continuously learning new technologies and improving my skills to create scalable, high-performance applications.
 
-- 📫 How to reach me **zfarhana156@gmail.com**
+### 🚀 Currently
+
+- 🔭 I'm currently working on **TradeShift** – an e-commerce & trade management platform  
+  https://github.com/rimi-1234/react-trade-shift-client
+
+- 🌱 I'm currently learning **Next.js 16, TypeScript, and Advanced Backend Development**
+
+- 💬 Ask me about **JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, Firebase, and Tailwind CSS**
+
+- ⚡ I enjoy building **full-stack applications, REST APIs, authentication systems, dashboards, and responsive UI/UX**
+
+- 📫 Reach me at: **zfarhana156@gmail.com**
+
+- 🎯 Goal: Become a professional Full-Stack Software Engineer and contribute to impactful open-source projects.
+
+- 😄 Fun Fact: I love solving coding challenges and continuously learning new web technologies.
 
 
 ---
